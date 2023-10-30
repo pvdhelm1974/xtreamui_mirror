@@ -13,7 +13,8 @@ rMySQLServiceFile = "IyBNeVNRTCBzeXN0ZW1kIHNlcnZpY2UgZmlsZQoKW1VuaXRdCkRlc2NyaXB
 
 rVersions = {
     "16.04": "xenial",
-    "18.04": "bionic"
+    "18.04": "bionic",
+    "22.04": "jammy"
 }
 
 class col:
