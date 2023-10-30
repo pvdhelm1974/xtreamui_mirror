@@ -22,7 +22,8 @@ rlibjemalloc = "W1NlcnZpY2VdCkxpbWl0Tk9GSUxFPTY1NTM1MApFbnZpcm9ubWVudD0iTERfUFJF
 
 rVersions = {
     "16.04": "xenial",
-    "18.04": "bionic"
+    "18.04": "bionic",
+    "22.04": "jammy"
 }
 
 class col:
